@@ -1,2 +1,2 @@
-# Simple 2d Floppy Burd made with Unity <3
+# Simple 2D Floppy Burd made with Unity
  
